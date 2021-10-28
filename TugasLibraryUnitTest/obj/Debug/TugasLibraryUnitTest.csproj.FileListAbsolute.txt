@@ -1,0 +1,11 @@
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.pdb
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.dll
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.dll
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.pdb
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.xml
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csprojAssemblyReference.cache
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CoreCompileInputs.cache
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CopyComplete
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.dll
+D:\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\P5\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.pdb
